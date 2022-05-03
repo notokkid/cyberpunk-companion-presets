@@ -1,0 +1,28 @@
+{
+  "npcPresets": [
+    {
+      "id": "1e1daa87-bdaa-4f71-a24e-5fe6e2458b36",
+      "name": "Thug",
+      "weapons": [
+        {
+          "id": "7c33d4f0-d203-4893-9516-b714a3288f7e",
+          "name": "Heavy Pistol",
+          "rateOfFire": 2,
+          "damageDice": 3
+        }
+      ],
+      "maxHealth": 20,
+      "currentHealth": 20,
+      "isDead": false,
+      "attackedThisTurn": false
+    }
+  ],
+  "weaponPresets": [
+    {
+      "id": "7c33d4f0-d203-4893-9516-b714a3288f7e",
+      "name": "Heavy Pistol",
+      "rateOfFire": 2,
+      "damageDice": 3
+    }
+  ]
+}
