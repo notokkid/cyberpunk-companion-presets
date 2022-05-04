@@ -1,14 +1,15 @@
 [
   {
-    "id": "1e1daa87-bdaa-4f71-a24e-5fe6e2458b36",
+    "id": "1",
     "name": "Thug",
     "weapons": [
       {
-        "id": "7c33d4f0-d203-4893-9516-b714a3288f7e",
+        "id": "W1",
         "name": "Heavy Pistol",
         "rateOfFire": 2,
         "damageDice": 3,
-        "combatPower": 8
+        "combatPower": 8,
+        "timesAttacked": 0
       }
     ],
     "initiative": 4,
@@ -16,19 +17,19 @@
     "currentHealth": 20,
     "headStoppingPower": 0,
     "bodyStoppingPower": 7,
-    "isDead": false,
-    "attackedThisTurn": false
+    "isDead": false
   },
   {
-    "id": "30c38069-5c9a-451a-8786-ac2a443fcf1f",
+    "id": "2",
     "name": "Booster",
     "weapons": [
       {
-        "id": "7c33d4f0-d203-4893-9516-b714a3288f7e",
+        "id": "W1",
         "name": "Heavy Pistol",
         "rateOfFire": 2,
         "damageDice": 3,
-        "combatPower": 11
+        "combatPower": 11,
+        "timesAttacked": 0
       }
     ],
     "initiative": 6,
@@ -36,7 +37,34 @@
     "currentHealth": 25,
     "headStoppingPower": 5,
     "bodyStoppingPower": 9,
-    "isDead": false,
-    "attackedThisTurn": false
+    "isDead": false
+  },
+  {
+    "id": "3",
+    "name": "Bodyguard",
+    "weapons": [
+      {
+        "id": "W1",
+        "name": "Heavy Pistol",
+        "rateOfFire": 2,
+        "damageDice": 3,
+        "combatPower": 11,
+        "timesAttacked": 0
+      },
+      {
+        "id": "W2",
+        "name": "Very Heavy Pistol",
+        "rateOfFire": 1,
+        "damageDice": 4,
+        "combatPower": 11,
+        "timesAttacked": 0
+      }
+    ],
+    "initiative": 6,
+    "maxHealth": 25,
+    "currentHealth": 25,
+    "headStoppingPower": 7,
+    "bodyStoppingPower": 7,
+    "isDead": false
   }
 ]
