@@ -18,5 +18,25 @@
     "bodyStoppingPower": 7,
     "isDead": false,
     "attackedThisTurn": false
+  },
+  {
+    "id": "30c38069-5c9a-451a-8786-ac2a443fcf1f",
+    "name": "Booster",
+    "weapons": [
+      {
+        "id": "7c33d4f0-d203-4893-9516-b714a3288f7e",
+        "name": "Heavy Pistol",
+        "rateOfFire": 2,
+        "damageDice": 3,
+        "combatPower": 11
+      }
+    ],
+    "initiative": 6,
+    "maxHealth": 25,
+    "currentHealth": 25,
+    "headStoppingPower": 5,
+    "bodyStoppingPower": 9,
+    "isDead": false,
+    "attackedThisTurn": false
   }
 ]
