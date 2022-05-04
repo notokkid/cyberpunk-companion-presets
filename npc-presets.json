@@ -7,7 +7,8 @@
         "id": "7c33d4f0-d203-4893-9516-b714a3288f7e",
         "name": "Heavy Pistol",
         "rateOfFire": 2,
-        "damageDice": 3
+        "damageDice": 3,
+        "combatPower": 8
       }
     ],
     "initiative": 4,
