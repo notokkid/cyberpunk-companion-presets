@@ -4,7 +4,7 @@
     "name": "Thug",
     "weapons": [
       {
-        "id": "W1",
+        "id": "W1-1",
         "name": "Heavy Pistol",
         "rateOfFire": 2,
         "damageDice": 3,
@@ -24,7 +24,7 @@
     "name": "Booster",
     "weapons": [
       {
-        "id": "W1",
+        "id": "W1-2",
         "name": "Heavy Pistol",
         "rateOfFire": 2,
         "damageDice": 3,
@@ -44,7 +44,7 @@
     "name": "Bodyguard",
     "weapons": [
       {
-        "id": "W1",
+        "id": "W1-3",
         "name": "Heavy Pistol",
         "rateOfFire": 2,
         "damageDice": 3,
@@ -52,7 +52,7 @@
         "timesAttacked": 0
       },
       {
-        "id": "W2",
+        "id": "W2-3",
         "name": "Very Heavy Pistol",
         "rateOfFire": 1,
         "damageDice": 4,
@@ -72,7 +72,7 @@
     "name": "Road Ganger",
     "weapons": [
       {
-        "id": "W1",
+        "id": "W1-4",
         "name": "Very Heavy Pistol",
         "rateOfFire": 1,
         "damageDice": 4,
@@ -80,7 +80,7 @@
         "timesAttacked": 0
       },
       {
-        "id": "W2",
+        "id": "W2-4",
         "name": "Crossbow",
         "rateOfFire": 1,
         "damageDice": 4,
@@ -100,7 +100,7 @@
     "name": "Security Operative",
     "weapons": [
       {
-        "id": "W1",
+        "id": "W1-5",
         "name": "Poor Quality Assault Rifle",
         "rateOfFire": 2,
         "damageDice": 5,
@@ -108,7 +108,7 @@
         "timesAttacked": 0
       },
       {
-        "id": "W2",
+        "id": "W2-5",
         "name": "Machete",
         "rateOfFire": 2,
         "damageDice": 2,
@@ -128,7 +128,7 @@
     "name": "Netrunner",
     "weapons": [
       {
-        "id": "W1",
+        "id": "W1-6",
         "name": "Very Heavy Pistol",
         "rateOfFire": 1,
         "damageDice": 4,
@@ -148,7 +148,7 @@
     "name": "Reclaimer Chief",
     "weapons": [
       {
-        "id": "W1",
+        "id": "W1-7",
         "name": "Shotgun",
         "rateOfFire": 1,
         "damageDice": 4,
@@ -156,7 +156,7 @@
         "timesAttacked": 0
       },
       {
-        "id": "W2",
+        "id": "W2-7",
         "name": "Lead Pipe",
         "rateOfFire": 2,
         "damageDice": 3,
@@ -176,7 +176,7 @@
     "name": "Security Officer",
     "weapons": [
       {
-        "id": "W1",
+        "id": "W1-8",
         "name": "Assault Rifle",
         "rateOfFire": 1,
         "damageDice": 5,
@@ -184,7 +184,7 @@
         "timesAttacked": 0
       },
       {
-        "id": "W2",
+        "id": "W2-8",
         "name": "Baton",
         "rateOfFire": 2,
         "damageDice": 2,
@@ -204,7 +204,7 @@
     "name": "Outrider",
     "weapons": [
       {
-        "id": "W1",
+        "id": "W1-9",
         "name": "Assault Rifle",
         "rateOfFire": 2,
         "damageDice": 5,
@@ -212,7 +212,7 @@
         "timesAttacked": 0
       },
       {
-        "id": "W2",
+        "id": "W2-9",
         "name": "Very Heavy Pistol",
         "rateOfFire": 1,
         "damageDice": 4,
@@ -232,7 +232,7 @@
     "name": "Pyro",
     "weapons": [
       {
-        "id": "W1",
+        "id": "W1-10",
         "name": "Flamethrower",
         "rateOfFire": 1,
         "damageDice": 3,
@@ -240,7 +240,7 @@
         "timesAttacked": 0
       },
       {
-        "id": "W2",
+        "id": "W2-10",
         "name": "Machete",
         "rateOfFire": 2,
         "damageDice": 2,
@@ -260,7 +260,7 @@
     "name": "Cyberpsycho",
     "weapons": [
       {
-        "id": "W1",
+        "id": "W1-11",
         "name": "Popup Grenade Launcher",
         "rateOfFire": 1,
         "damageDice": 6,
@@ -268,7 +268,7 @@
         "timesAttacked": 0
       },
       {
-        "id": "W2",
+        "id": "W2-11",
         "name": "Heavy SMG",
         "rateOfFire": 1,
         "damageDice": 3,
